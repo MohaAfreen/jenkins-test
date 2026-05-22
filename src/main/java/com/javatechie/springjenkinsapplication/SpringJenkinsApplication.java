@@ -12,7 +12,6 @@ public class SpringJenkinsApplication {
     public static void main(String[] args) {
         logger.info("Executing main class");
         SpringApplication.run(SpringJenkinsApplication.class, args);
-        logger.info("Executing end of main class)
     }
 
 }
